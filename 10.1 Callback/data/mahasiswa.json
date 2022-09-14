@@ -1,0 +1,20 @@
+[
+    {
+        "nama": "Samuel",
+        "Nrp": "131269312",
+        "jurusan": "Teknik Informatika",
+        "idDosenwali": 1
+    },
+    {
+        "nama": "Dony",
+        "Nrp": "131269313",
+        "jurusan": "Teknik Informatika",
+        "idDosenwali": 2
+    },
+    {
+        "nama": "Paquito",
+        "Nrp": "1312693114",
+        "jurusan": "Teknik Informatika",
+        "idDosenwali": 3
+    }
+]
